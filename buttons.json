@@ -1,0 +1,16 @@
+{
+    "income": [
+        {
+            "label": "ЗП Азата",
+            "callback": "salary_azat"
+        },
+        {
+            "label": "ЗП Руфины",
+            "callback": "salary_rufina"
+        },
+        {
+            "label": "Investing4",
+            "callback": "inesting4"
+        }
+    ]
+}
